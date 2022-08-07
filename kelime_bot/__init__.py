@@ -15,10 +15,10 @@ LOGGER = logging.getLogger(__name__)
 
 
 # Hesap
-API_ID = "17032930"
-API_HASH = "eb80de1a38db0d06656478bbeff23aee"
-TOKEN = "5503504614:AAH1wgAH8KXWO8jTjFwV60m-yvhyoRO94xE" 
-USERNAME = "RichSozBot"
+API_ID = "17970046"
+API_HASH = "f62aeccca0455c616697529efc369119"
+TOKEN = "5509121112:AAHORNNqwXGUBbDuECbHA_tCiOJskhdzkmg" 
+USERNAME = "ASOsozutap_bot"
 
 
 
