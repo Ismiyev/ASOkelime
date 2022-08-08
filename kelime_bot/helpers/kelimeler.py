@@ -1,6 +1,5 @@
 import random
-kelimeler = ["gözəl", "məlumat", "sual", "sağlam", "buraxmaq", "yaraşıqlı", "su", "etmək", "işlədmək", "demək", "görmək",
-             "yenidən", "həssas", "sanki", "manat", "oynamaq", "çiçək", "şəhər", "yüksəlmək", "çabalamaq", "varlıq", "diyar",
+kelimeler = ["yenidən", "həssas", "sanki", "manat", "oynamaq", "çiçək", "şəhər", "yüksəlmək", "çabalamaq", "varlıq", "diyar",
              "güvən", "gərək", "müalicə", "bir", "rahat", "soyuq", "hava", "kitab", "paylaşmaq", "hesap", "vücud",
              "torpaq", "kitab", "sistem", "xoşallanmaq", "çəkilmək", "texnik", "yaxınlaşmaq", "il", "tarix", "dəqiq", "qaqaş",
              "nazik", "dəyər", "orda", "qarşılıq","vermək", "sahib", "artıq", "kişi", "digər", "dönmək", "yenə", "enlikürək",
