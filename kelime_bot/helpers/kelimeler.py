@@ -1,8 +1,8 @@
 import random
-kelimeler = ["yenidən", "həssas", "sanki", "manat", "oynamaq", "çiçək", "şəhər", "yüksəlmək", "çabalamaq", "varlıq", "diyar",
+kelimeler = ["yeni", "akademiya", "sanki", "manat", "oynamaq", "bülbül", "şəhər", "qanad", "çabalamaq", "varlıq", "diyar",
              "güvən", "gərək", "müalicə", "bir", "rahat", "soyuq", "hava", "kitab", "paylaşmaq", "hesap", "vücud",
              "torpaq", "kitab", "sistem", "xoşallanmaq", "çəkilmək", "texnik", "yaxınlaşmaq", "il", "tarix", "dəqiq", "qaqaş",
-             "nazik", "dəyər", "orda", "qarşılıq","vermək", "sahib", "artıq", "kişi", "digər", "dönmək", "yenə", "enlikürək",
+             "nazik", "dəyər", "orda", "qarşılıq", "vermək", "sahib", "artıq", "kişi", "digər", "dönmək", "yenə", "enlikürək",
              "dəftər", "hadisə", "tapmaq", "göz", "dövlət", "qabağ", "tələb", "baxmaq", "üstündə", "belə", "bəzi", "başlamaq",
              "tutmaq", "birə", "heç", "göstərmək", "hovuz", "kimi", "hal", "doğru", "orta", "başqa", "böyük", "getmək",
              "yeni", "çox", "soruşmaq", "onlar", "açmaq", "dəniz", "həmişə", "səs", "anlamaq", "dəli", "saat", "neçə",
